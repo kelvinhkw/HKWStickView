@@ -28,7 +28,6 @@ typedef NS_ENUM(NSInteger,StickViewDialType)
     StickViewDialTypeDefault,
     /** 横坐标为(-1~1),纵坐标为(0~1)*/
     StickViewDialTypeZero
-    ////test
 };
 
 @interface HKWStickView : UIView
